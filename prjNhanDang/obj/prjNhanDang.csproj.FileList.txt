@@ -1,0 +1,9 @@
+bin\Debug\prjNhanDang.exe
+bin\Debug\prjNhanDang.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\prjNhanDang.frmMain.resources
+obj\Debug\prjNhanDang.frmVideoCaptureDevice.resources
+obj\Debug\prjNhanDang.Properties.Resources.resources
+obj\Debug\prjNhanDang.csproj.GenerateResource.Cache
+obj\Debug\prjNhanDang.exe
+obj\Debug\prjNhanDang.pdb

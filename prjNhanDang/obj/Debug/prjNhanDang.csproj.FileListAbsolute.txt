@@ -1,0 +1,73 @@
+E:\Study\Research\DangHongMinh\prjNhanDang\prjNhanDang\obj\Debug\prjNhanDang.exe
+E:\Study\Research\DangHongMinh\prjNhanDang\prjNhanDang\obj\Debug\prjNhanDang.pdb
+E:\Study\Research\DangHongMinh\prjNhanDang\prjNhanDang\bin\Debug\prjNhanDang.exe
+E:\Study\Research\DangHongMinh\prjNhanDang\prjNhanDang\bin\Debug\prjNhanDang.pdb
+E:\Study\Research\DangHongMinh\prjNhanDang\prjNhanDang\obj\Debug\ResolveAssemblyReference.cache
+E:\Study\Research\DangHongMinh\prjNhanDang\prjNhanDang\obj\Debug\prjNhanDang.frmMain.resources
+E:\Study\Research\DangHongMinh\prjNhanDang\prjNhanDang\obj\Debug\prjNhanDang.frmVideoCaptureDevice.resources
+E:\Study\Research\DangHongMinh\prjNhanDang\prjNhanDang\obj\Debug\prjNhanDang.Properties.Resources.resources
+E:\Study\Research\DangHongMinh\prjNhanDang\prjNhanDang\obj\Debug\prjNhanDang.csproj.GenerateResource.Cache
+E:\Study\Do an tot nghiep\DangHongMinh\prjNhanDang\prjNhanDang\obj\Debug\prjNhanDang.exe
+E:\Study\Do an tot nghiep\DangHongMinh\prjNhanDang\prjNhanDang\obj\Debug\prjNhanDang.pdb
+E:\Study\Do an tot nghiep\DangHongMinh\prjNhanDang\prjNhanDang\bin\Debug\prjNhanDang.exe
+E:\Study\Do an tot nghiep\DangHongMinh\prjNhanDang\prjNhanDang\bin\Debug\prjNhanDang.pdb
+E:\Study\Do an tot nghiep\DangHongMinh\prjNhanDang\prjNhanDang\obj\Debug\ResolveAssemblyReference.cache
+E:\Study\Do an tot nghiep\DangHongMinh\prjNhanDang\prjNhanDang\obj\Debug\prjNhanDang.frmMain.resources
+E:\Study\Do an tot nghiep\DangHongMinh\prjNhanDang\prjNhanDang\obj\Debug\prjNhanDang.frmVideoCaptureDevice.resources
+E:\Study\Do an tot nghiep\DangHongMinh\prjNhanDang\prjNhanDang\obj\Debug\prjNhanDang.Properties.Resources.resources
+E:\Study\Do an tot nghiep\DangHongMinh\prjNhanDang\prjNhanDang\obj\Debug\prjNhanDang.csproj.GenerateResource.Cache
+C:\Documents and Settings\LT04\Desktop\XuLyAnh\DangHongMinh\prjNhanDang\prjNhanDang\obj\Debug\prjNhanDang.exe
+C:\Documents and Settings\LT04\Desktop\XuLyAnh\DangHongMinh\prjNhanDang\prjNhanDang\obj\Debug\prjNhanDang.pdb
+D:\liembt\Learn\My Project\Nhan dang bien so xe C#_Primary\Nhan dang bien so xe C#\prjNhanDang\obj\Debug\prjNhanDang.exe
+D:\liembt\Learn\My Project\Nhan dang bien so xe C#_Primary\Nhan dang bien so xe C#\prjNhanDang\obj\Debug\prjNhanDang.pdb
+D:\liembt\Learn\My Project\Nhan dang bien so xe C#_Primary\Nhan dang bien so xe C#\prjNhanDang\bin\Debug\prjNhanDang.exe
+D:\liembt\Learn\My Project\Nhan dang bien so xe C#_Primary\Nhan dang bien so xe C#\prjNhanDang\bin\Debug\prjNhanDang.pdb
+D:\liembt\Learn\My Project\Nhan dang bien so xe C#_Primary\Nhan dang bien so xe C#\prjNhanDang\obj\Debug\ResolveAssemblyReference.cache
+D:\liembt\Learn\My Project\Nhan dang bien so xe C#_Primary\Nhan dang bien so xe C#\prjNhanDang\obj\Debug\prjNhanDang.frmMain.resources
+D:\liembt\Learn\My Project\Nhan dang bien so xe C#_Primary\Nhan dang bien so xe C#\prjNhanDang\obj\Debug\prjNhanDang.frmVideoCaptureDevice.resources
+D:\liembt\Learn\My Project\Nhan dang bien so xe C#_Primary\Nhan dang bien so xe C#\prjNhanDang\obj\Debug\prjNhanDang.Properties.Resources.resources
+D:\liembt\Learn\My Project\Nhan dang bien so xe C#_Primary\Nhan dang bien so xe C#\prjNhanDang\obj\Debug\prjNhanDang.csproj.GenerateResource.Cache
+D:\liembt\Learn\My Project\Nhan dang bien so xe C#_Primary\Nhan dang bien so xe C#\prjNhanDang\obj\Debug\prjNhanDang.CameraWindow.resources
+D:\liembt\Learn\My Project\Nhan dang bien so xe C#_Primary\Backup\bk 10-12-2013\Nhan dang bien so xe C#\prjNhanDang\obj\Debug\prjNhanDang.exe
+D:\liembt\Learn\My Project\Nhan dang bien so xe C#_Primary\Backup\bk 10-12-2013\Nhan dang bien so xe C#\prjNhanDang\obj\Debug\prjNhanDang.pdb
+D:\liembt\Learn\My Project\Nhan dang bien so xe C#_Primary\Backup\bk 10-12-2013\Nhan dang bien so xe C#\prjNhanDang\bin\Debug\prjNhanDang.exe
+D:\liembt\Learn\My Project\Nhan dang bien so xe C#_Primary\Backup\bk 10-12-2013\Nhan dang bien so xe C#\prjNhanDang\bin\Debug\prjNhanDang.pdb
+D:\liembt\Learn\My Project\Nhan dang bien so xe C#_Primary\Backup\bk 10-12-2013\Nhan dang bien so xe C#\prjNhanDang\obj\Debug\ResolveAssemblyReference.cache
+D:\liembt\Learn\My Project\Nhan dang bien so xe C#_Primary\Backup\bk 10-12-2013\Nhan dang bien so xe C#\prjNhanDang\obj\Debug\prjNhanDang.CameraWindow.resources
+D:\liembt\Learn\My Project\Nhan dang bien so xe C#_Primary\Backup\bk 10-12-2013\Nhan dang bien so xe C#\prjNhanDang\obj\Debug\prjNhanDang.frmMain.resources
+D:\liembt\Learn\My Project\Nhan dang bien so xe C#_Primary\Backup\bk 10-12-2013\Nhan dang bien so xe C#\prjNhanDang\obj\Debug\prjNhanDang.frmVideoCaptureDevice.resources
+D:\liembt\Learn\My Project\Nhan dang bien so xe C#_Primary\Backup\bk 10-12-2013\Nhan dang bien so xe C#\prjNhanDang\obj\Debug\prjNhanDang.Properties.Resources.resources
+D:\liembt\Learn\My Project\Nhan dang bien so xe C#_Primary\Backup\bk 10-12-2013\Nhan dang bien so xe C#\prjNhanDang\obj\Debug\prjNhanDang.csproj.GenerateResource.Cache
+D:\nhan dang bien so xe c#\Nhan dang bien so xe C#\prjNhanDang\obj\Debug\prjNhanDang.exe
+D:\nhan dang bien so xe c#\Nhan dang bien so xe C#\prjNhanDang\obj\Debug\prjNhanDang.pdb
+D:\nhan dang bien so xe c#\Nhan dang bien so xe C#\prjNhanDang\bin\Debug\prjNhanDang.exe
+D:\nhan dang bien so xe c#\Nhan dang bien so xe C#\prjNhanDang\bin\Debug\prjNhanDang.pdb
+D:\nhan dang bien so xe c#\Nhan dang bien so xe C#\prjNhanDang\obj\Debug\prjNhanDang.CameraWindow.resources
+D:\nhan dang bien so xe c#\Nhan dang bien so xe C#\prjNhanDang\obj\Debug\prjNhanDang.frmMain.resources
+D:\nhan dang bien so xe c#\Nhan dang bien so xe C#\prjNhanDang\obj\Debug\prjNhanDang.frmVideoCaptureDevice.resources
+D:\nhan dang bien so xe c#\Nhan dang bien so xe C#\prjNhanDang\obj\Debug\prjNhanDang.Properties.Resources.resources
+D:\nhan dang bien so xe c#\Nhan dang bien so xe C#\prjNhanDang\obj\Debug\prjNhanDang.csprojResolveAssemblyReference.cache
+D:\nhan dang bien so xe c#\Nhan dang bien so xe C#\prjNhanDang\obj\Debug\prjNhanDang.csproj.GenerateResource.Cache
+C:\Users\Hoang Minh\Desktop\B\prjNhanDang\obj\Debug\prjNhanDang.exe
+C:\Users\Hoang Minh\Desktop\B\prjNhanDang\obj\Debug\prjNhanDang.pdb
+C:\Users\Hoang Minh\Desktop\B\prjNhanDang\bin\Debug\prjNhanDang.exe
+C:\Users\Hoang Minh\Desktop\B\prjNhanDang\bin\Debug\prjNhanDang.pdb
+C:\Users\Hoang Minh\Desktop\B\prjNhanDang\obj\Debug\prjNhanDang.CameraWindow.resources
+C:\Users\Hoang Minh\Desktop\B\prjNhanDang\obj\Debug\prjNhanDang.frmMain.resources
+C:\Users\Hoang Minh\Desktop\B\prjNhanDang\obj\Debug\prjNhanDang.frmVideoCaptureDevice.resources
+C:\Users\Hoang Minh\Desktop\B\prjNhanDang\obj\Debug\prjNhanDang.Properties.Resources.resources
+C:\Users\Hoang Minh\Desktop\B\prjNhanDang\obj\Debug\prjNhanDang.csproj.GenerateResource.Cache
+D:\KHANHND\Project\NhanDangBiensoxe\NhanDangBiensoxe\prjNhanDang\obj\Debug\prjNhanDang.exe
+D:\KHANHND\Project\NhanDangBiensoxe\NhanDangBiensoxe\prjNhanDang\obj\Debug\prjNhanDang.pdb
+D:\HK1 2020\NhanDangBiensoxe\NhanDangBiensoxe\prjNhanDang\bin\Debug\prjNhanDang.exe
+D:\HK1 2020\NhanDangBiensoxe\NhanDangBiensoxe\prjNhanDang\bin\Debug\prjNhanDang.pdb
+D:\HK1 2020\NhanDangBiensoxe\NhanDangBiensoxe\prjNhanDang\obj\Debug\prjNhanDang.csprojAssemblyReference.cache
+D:\HK1 2020\NhanDangBiensoxe\NhanDangBiensoxe\prjNhanDang\obj\Debug\prjNhanDang.CameraWindow.resources
+D:\HK1 2020\NhanDangBiensoxe\NhanDangBiensoxe\prjNhanDang\obj\Debug\prjNhanDang.frmMain.resources
+D:\HK1 2020\NhanDangBiensoxe\NhanDangBiensoxe\prjNhanDang\obj\Debug\prjNhanDang.frmVideoCaptureDevice.resources
+D:\HK1 2020\NhanDangBiensoxe\NhanDangBiensoxe\prjNhanDang\obj\Debug\prjNhanDang.Properties.Resources.resources
+D:\HK1 2020\NhanDangBiensoxe\NhanDangBiensoxe\prjNhanDang\obj\Debug\prjNhanDang.csproj.GenerateResource.cache
+D:\HK1 2020\NhanDangBiensoxe\NhanDangBiensoxe\prjNhanDang\obj\Debug\prjNhanDang.csproj.CoreCompileInputs.cache
+D:\HK1 2020\NhanDangBiensoxe\NhanDangBiensoxe\prjNhanDang\obj\Debug\prjNhanDang.csproj.CopyComplete
+D:\HK1 2020\NhanDangBiensoxe\NhanDangBiensoxe\prjNhanDang\obj\Debug\prjNhanDang.exe
+D:\HK1 2020\NhanDangBiensoxe\NhanDangBiensoxe\prjNhanDang\obj\Debug\prjNhanDang.pdb
